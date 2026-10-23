@@ -1,0 +1,10 @@
+# Datos personales y de ejecución
+config.json
+inventory.json
+pending.json
+logs/
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/

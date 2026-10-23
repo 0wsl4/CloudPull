@@ -1,0 +1,6 @@
+{
+  "apple_id": "tu_correo@example.com",
+  "destination": "C:\Users\tu_usuario\Pictures\iCloud",
+  "verify_megasync": false,
+  "skip_folders": []
+}
